@@ -156,7 +156,16 @@ public class MyHashMap {
 
     public Set<MyEntry> entrySet() {
         // TODO Return a Set containing all the Entry objects
-        return null;
+        Set<MyEntry> entrySet = new HashSet<MyEntry>();
+        for(LinkedList<MyEntry> bucket : buckets)
+        {
+            for(MyEntry entry : bucket)
+                entrySet.add(entry);
+        }
+        if(entrySet.size() > 0)
+            return entrySet;
+        else
+            return null;
     }
 
     public boolean isEmpty() {
