@@ -1,6 +1,5 @@
 package exercise4;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 /**
@@ -95,7 +94,7 @@ public class MyHashMap {
         if(valueSet.size() > 0)
             return valueSet;
         else
-        return null;
+            return null;
     }
 
     public String remove(String key) {
@@ -147,6 +146,12 @@ public class MyHashMap {
 
     public void clear() {
         // TODO Remove all the Entry objects from the bucket list
+        for(LinkedList<MyEntry> bucket : buckets)
+        {
+            for(MyEntry entry : bucket)
+                bucket.remove(entry);
+        }
+
     }
 
     public Set<MyEntry> entrySet() {
@@ -156,7 +161,14 @@ public class MyHashMap {
 
     public boolean isEmpty() {
         // TODO
-        return false;
+        boolean empty = true;
+        for(LinkedList<MyEntry> bucket : buckets)
+        {
+            for(MyEntry entry : bucket)
+                if(entry != null)
+                    empty = false;
+        }
+        return empty;
     }
 
     public static class MyEntry {
