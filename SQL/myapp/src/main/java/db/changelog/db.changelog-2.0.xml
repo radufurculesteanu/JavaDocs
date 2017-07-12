@@ -5,7 +5,7 @@
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.9
                       http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.9.xsd">
     <changeSet author="Radu-Stefan" id="furcz-2.0">
-        <createTable tableName="ZTH17_ADDRESS_RADU">
+        <createTable tableName="ZTH_2017_ADDRESS_RADU">
             <column name="ADR_ID" type="NUMBER(6)" autoIncrement="true">
                 <constraints primaryKey="true" nullable="false"/>
             </column>
