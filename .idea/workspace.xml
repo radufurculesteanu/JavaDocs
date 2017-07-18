@@ -2,30 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dab232a-56db-4e32-8ca7-cbdc151460df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EmployeeManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/dao/DepartmentDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/dao/LocationDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/appl/domain/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/database/EntityManagerImplTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/appl/DepartmentDaoTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/appl/LocationDaoTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EmployeeManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/dao/DepartmentDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/dao/LocationDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/appl/domain/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/database/EntityManagerImplTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/appl/DepartmentDaoTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/appl/LocationDaoTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManager.class" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManagerImpl.class" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/EntityManagerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/QueryBuilder.class" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/classes/ro/teamnet/zth/api/em/QueryBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/database/DBManagerTest.class" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/target/test-classes/ro/teamnet/zth/api/database/DBManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/artifacts/servlet_app_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/artifacts/servlet_app_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/servlet-app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/resources/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/importFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/zero-to-hero.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/List_of_people.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/importFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/zero-to-hero.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Web Presentation-Part1.pptx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Web Presentation-Part1.pptx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 1 - Server configuration.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 1 - Server configuration.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 2 - Web application.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 2 - Web application.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 3 - Servlets.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 3 - Servlets.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManager.java" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManagerImpl.java" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/EntityManagerImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/QueryBuilder.java" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/main/java/ro/teamnet/zth/api/em/QueryBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/database/DBManagerTest.java" afterPath="$PROJECT_DIR$/JDBC/Code/JDBCApp/src/test/java/ro/teamnet/zth/api/database/DBManagerTest.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,7 +147,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -376,6 +406,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -504,6 +535,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -534,7 +571,9 @@
       <workItem from="1499418348997" duration="157000" />
       <workItem from="1499955183199" duration="99000" />
       <workItem from="1500014472473" duration="29000" />
-      <workItem from="1500041150446" duration="34000" />
+      <workItem from="1500041150446" duration="115000" />
+      <workItem from="1500364976728" duration="35000" />
+      <workItem from="1500389508054" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="Java Day2 Java8 Radu">
       <created>1499352877470</created>
@@ -550,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499955240133</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit JDBC Day2">
+      <created>1500041227332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500041227332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435000" />
+    <option name="totallyTimeSpent" value="579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -573,7 +619,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26427525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -598,7 +644,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Day2 Java8 Radu" />
     <MESSAGE value="Commit JDBC Day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit JDBC Day1" />
+    <MESSAGE value="Commit JDBC Day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit JDBC Day2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
