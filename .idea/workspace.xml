@@ -2,59 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dab232a-56db-4e32-8ca7-cbdc151460df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/artifacts/servlet_app_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/artifacts/servlet_app_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/servlet-app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ImportFileServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/java/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/resources/List_of_people.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/importFile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/js/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/js/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/src/main/webapp/zero-to-hero.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/List_of_people.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/List_of_people.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ImportFileServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/classes/ro/teamnet/zth/web/ZeroToHeroServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/importFile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/js/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/js/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day1/Code/servlet-app/target/servlet-app/zero-to-hero.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Web Presentation-Part1.pptx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Web Presentation-Part1.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 1 - Server configuration.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 1 - Server configuration.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 2 - Web application.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 2 - Web application.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 3 - Servlets.docx" afterPath="$PROJECT_DIR$/Servlets/Day1/Docs/Workshop 3 - Servlets.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/reports/UsernameReport.jasper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/file/LogFileWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/ExportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HeadersLogFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HelloWorldServletForward.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HttpServletLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/jasper/reports/UsernameReport.jasper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/reports/UsernameReport.jasper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/file/LogFileWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/ExportFileServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HeadersLogFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServletForward.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HttpServletLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/bcmail-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/bcmail-jdk14-138.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/bcprov-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/bcprov-jdk14-138.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/bctsp-jdk14-1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/castor-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/commons-collections-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/commons-digester-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/dom4j-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/geronimo-stax-api_1.0_spec-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/itext-2.1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/jackson-core-asl-1.9.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/jackson-mapper-asl-1.9.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/jasperreports-4.7.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/jcommon-1.0.15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/jfreechart-1.0.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/poi-3.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/poi-ooxml-3.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/poi-ooxml-schemas-3.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/stax-api-1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/xml-apis-1.3.02.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/lib/xmlbeans-2.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/exportFile_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/index_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/views/loginFail_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/views/login_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Docs/Workshop 1 - RequestDispatcherWorkshop.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Docs/Workshop 2 - ServletFilters.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Docs/Workshop 3 - HttpSession.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/artifacts/servlet_app_day2_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/artifacts/servlet_app_day2_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__commons_collections_commons_collections_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__jfree_jcommon_1_0_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__jfree_jfreechart_1_0_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__net_sf_jasperreports_jasperreports_4_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_apache_poi_poi_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_codehaus_castor_castor_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/libraries/Maven__xml_apis_xml_apis_1_3_02.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/servlet-app-day2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/jasperreports/reports/UsernameReport.jrxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/file/LogFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/web/ExportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/web/HeadersLogFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/web/HelloWorldServletForward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/java/ro/teamnet/zth/web/HttpServletLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/webapp/exportFile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/webapp/views/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/src/main/webapp/views/loginFail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/file/LogFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/ExportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HeadersLogFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HelloWorldServletForward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/classes/ro/teamnet/zth/web/HttpServletLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/file/LogFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/ExportFileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HeadersLogFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HelloWorldServletForward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/classes/ro/teamnet/zth/web/HttpServletLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/exportFile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/views/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/servlet-app-day2/views/loginFail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/conf/logging.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/conf/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/conf/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/logs/access_log.2017-07-19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/exportFile_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/index_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/views/loginFail_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Servlets/Day2/Code/servlet-app-day2/target/tomcat/work/Tomcat/localhost/servlet-app-day2/org/apache/jsp/views/login_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Day2/Docs/Web Presentation-Part2.pptx" afterPath="$PROJECT_DIR$/Servlets/Day2/Docs/Web Presentation-Part2.pptx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +168,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,8 +217,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -573,7 +641,9 @@
       <workItem from="1500014472473" duration="29000" />
       <workItem from="1500041150446" duration="115000" />
       <workItem from="1500364976728" duration="35000" />
-      <workItem from="1500389508054" duration="28000" />
+      <workItem from="1500389508054" duration="125000" />
+      <workItem from="1500447625633" duration="32000" />
+      <workItem from="1500473675099" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Java Day2 Java8 Radu">
       <created>1499352877470</created>
@@ -596,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500041227332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Servlets Day 1">
+      <created>1500389595985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1500389595985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579000" />
+    <option name="totallyTimeSpent" value="745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -613,8 +690,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -625,8 +702,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -645,7 +722,8 @@
     <MESSAGE value="Java Day2 Java8 Radu" />
     <MESSAGE value="Commit JDBC Day1" />
     <MESSAGE value="Commit JDBC Day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit JDBC Day2" />
+    <MESSAGE value="Commit Servlets Day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Servlets Day 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
